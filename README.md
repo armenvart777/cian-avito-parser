@@ -34,3 +34,5 @@ python main.py
 ```bash
 python max_bot.py
 ```
+
+<!-- 2025-10-01 -->
