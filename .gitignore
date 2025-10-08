@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.db
+*.xlsx
+*.xls
+*.pid
+seen_ids.json
+avito_seen_ids.json
+max_users.json
